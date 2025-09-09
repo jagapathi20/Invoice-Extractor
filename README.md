@@ -21,7 +21,7 @@ Before running this application, make sure you have:
 
 1. **Clone the repository** (or download the project files):
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/jagapathi20/Invoice-Extractor>
    cd multilanguage-invoice-extractor
    ```
 
